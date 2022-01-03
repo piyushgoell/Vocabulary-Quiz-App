@@ -76,8 +76,8 @@ const App = () => {
 	return (
 		<div className="app">
 			{!choosenLevel && <div className='level-selector'>
-				<h1>Word Association App</h1>
-				<p>Select Your level to start</p>
+				<h1>Vocabulary Quiz Game</h1>
+				<p>Select a level to start</p>
 				<select
 					name="levels"
 					id="levels"
